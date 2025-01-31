@@ -56,8 +56,7 @@ Para tornar o uso da API mais dinâmico, você pode definir uma chave padrão no
 Para evitar conflitos, o script deve ser carregado no `<head>` com o atributo `defer` ou inserido no final do `<body>`.
 
 ```html
-<script src=".
-https://slnk.bio/api/assets/scripts/v1/post/snlk.bio.js"></script>
+<script src="https://slnk.bio/api/assets/scripts/v1/post/snlk.bio.js"></script>
 ```
 
 ---
