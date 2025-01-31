@@ -56,7 +56,8 @@ Para tornar o uso da API mais dinâmico, você pode definir uma chave padrão no
 Para evitar conflitos, o script deve ser carregado no `<head>` com o atributo `defer` ou inserido no final do `<body>`.
 
 ```html
-<script src="./api/assets/scripts/v1/post/snlk.bio.js"></script>
+<script src=".
+https://slnk.bio/api/assets/scripts/v1/post/snlk.bio.js"></script>
 ```
 
 ---
@@ -111,7 +112,7 @@ curl "https://slnk.bio/api.php?url=https://exemplo.com&api_key=sua_chave_aqui"
 ### 🛠️ Configuração JavaScript
 
 ```html
-<script src="./api/assets/scripts/v1/get/snlk.bio.js"></script>
+<script src="https://slnk.bio/api/assets/scripts/v1/get/snlk.bio.js"></script>
 ```
 
 ### 📩 Modelo de Resposta
